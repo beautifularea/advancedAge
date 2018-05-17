@@ -1,8 +1,14 @@
 # advancedAge
 
 ---------------------------------------------------------
+## Linux
 1. Linux惊群效应 [参考链接](https://blog.csdn.net/lyztyycode/article/details/78648798?locationNum=6&fps=1)
-2. 大数据去重： Bitmap vs.Bloom filter (布隆过滤）
+2. Linux highmem [Highmem](http://ilinuxkernel.com/?p=1013)
+
+
+--------------------------------------------------------
+## 数据相关
+1. 大数据去重： Bitmap vs.Bloom filter (布隆过滤）
 
 
 --------------------------------------------------
@@ -16,6 +22,6 @@ sudo tcpdump -i lo port 5060 -X -vv
    port 指定端口号</br>
 
 
-
+-----------------------------------------------------
 * to be continued...
 
